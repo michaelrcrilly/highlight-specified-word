@@ -3,7 +3,7 @@ Highlight a word in a string given its index position
 
 Example:
 ----
-string = `This is an example string`
+string = `This is an example string`   
 position = 2   
 
 <pre>
@@ -13,7 +13,7 @@ position = 2
 
 Invalid indices result in the following behaviour:
 ----
-string = `This is an example string`
+string = `This is an example string`   
 position = -1   
 
 <pre>
